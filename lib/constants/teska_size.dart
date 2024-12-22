@@ -1,5 +1,5 @@
-final class AppSizes {
-  const AppSizes._();
+final class TeskaSize {
+  const TeskaSize._();
 
   /// Value is 0
   static const double zero = 0;
